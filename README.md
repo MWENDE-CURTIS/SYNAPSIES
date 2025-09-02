@@ -1,7 +1,7 @@
 SYNAPSIES
 A University Community App
 Netlify Deployment: [Placeholder for Netlify Deployment Link]
-Canva Pitch Deck: [Placeholder for Canva Pitch Deck Presentation Link]
+Canva Pitch Deck: [https://www.canva.com/design/DAGxeM9fzEA/KUXLurNDy9SJG3m3FKFZZg/edit?utm_content=DAGxeM9fzEA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 Project Vision
 SYNAPSIES is a visionary platform designed to be the central digital community for university students across Africa. Our end vision is to break down the physical and institutional barriers that separate campuses, creating a single, dynamic network for learning, collaboration, and social connection.
