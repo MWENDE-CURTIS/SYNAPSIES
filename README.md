@@ -1,6 +1,6 @@
 SYNAPSIES
 A University Community App
-Netlify Deployment: [Placeholder for Netlify Deployment Link]
+Netlify Deployment: [https://synapsies.netlify.app/]
 Canva Pitch Deck: [https://www.canva.com/design/DAGxeM9fzEA/KUXLurNDy9SJG3m3FKFZZg/edit?utm_content=DAGxeM9fzEA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 Project Vision
